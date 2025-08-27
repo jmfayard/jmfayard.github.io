@@ -1,18 +1,16 @@
-# Quartz v4
+# 👋🏻 I'm Jean-Michel Fayard
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+🇬🇧 I have an english blog at https://dev.to/jmfayard/
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+🇫🇷 J'ai un blog francophone sur https://jmfayard.substack.com/
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+🇩🇪 Ich bin ein Berliner
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+🇪🇸 Me encanta la musica y los bailes latinos https://www.instagram.com/juancho.musique) (Instagram)
 
-## Sponsors
+🇨🇴🇮🇹🇯🇵 I'm a polyglot
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+👨🏻‍💻 I'm a tech engineer https://github.com/jmfayard/
+
+📩 You can DM me on https://www.linkedin.com/in/jmfayard/ 
+
